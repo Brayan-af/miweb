@@ -1,7 +1,3 @@
 Hola mundo
 Hola mundo
-<<<<<<< HEAD
 voy a subir codigo
-=======
-estoy probando para traer esta rama a la de master
->>>>>>> ramab
